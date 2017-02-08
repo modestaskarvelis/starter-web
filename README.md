@@ -16,9 +16,7 @@ Deployment sample text
 
 ## How to contribute
 
-Sample how to contribute
-
-Sample website with plenty of files for demos
+Please fork this repo and then issue Pull request for the review
 
 ### Copyright section
 
