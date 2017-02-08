@@ -19,3 +19,7 @@ Deployment sample text
 Sample how to contribute
 
 Sample website with plenty of files for demos
+
+### Copyright section
+
+Git training
