@@ -4,6 +4,8 @@ This is a simple website project to show how to use GIT
 
 ## Introduction
 
+This is example to fhow differencies
+
 ## Purpose
 
 ## Deployment
