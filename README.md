@@ -2,6 +2,8 @@
 
 This is a simple website project to show how to use GIT
 
+Adding a line
+
 ## Introduction
 
 This is example to fhow differencies
