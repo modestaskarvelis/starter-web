@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    modestas Karvelis modestaskarvelis@kkk.llll
 
 # THANKS
 
